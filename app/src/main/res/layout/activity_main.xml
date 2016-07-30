@@ -30,7 +30,8 @@
         android:layout_alignParentLeft="false"
         android:layout_alignParentRight="false"
         android:layout_alignWithParentIfMissing="false"
-        android:text="ABOUT ME" />
+        android:text="ABOUT ME"
+        android:onClick="clickAboutMe" />
 
     <ListView
         android:layout_width="wrap_content"
